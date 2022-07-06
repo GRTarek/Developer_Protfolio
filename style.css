@@ -1,0 +1,40 @@
+body {
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+section {
+    display: flex;
+
+}
+
+.first_section {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.first_photo {
+    width: 80%;
+
+
+}
+
+.text_color {
+    color: coral;
+
+}
+
+.here_me_button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    border-radius: 5px;
+    padding: 10px 40px;
+
+}
+
+.top_bannar {
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+}
